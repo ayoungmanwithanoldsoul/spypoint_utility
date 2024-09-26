@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "windows\\CMakeLists.txt",
+      "projectTarget": "spypoint_utility.exe (runner\\spypoint_utility.exe)",
+      "name": "spypoint_utility.exe (runner\\spypoint_utility.exe)"
+    }
+  ]
+}

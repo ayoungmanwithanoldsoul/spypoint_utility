@@ -1,0 +1,14 @@
+# ninja log v5
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/flutter_windows.dll	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/flutter_export.h	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/flutter_windows.h	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/flutter_messenger.h	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/flutter_plugin_registrar.h	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/flutter_texture_registrar.h	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc	5fad9647650276b6
+5	21786	7459601266846962	flutter/_phony_	5fad9647650276b6
+5	21786	7459601266846962	C:/dev/spypoint_utility/windows/out/build/x64-Debug/flutter/_phony_	5fad9647650276b6

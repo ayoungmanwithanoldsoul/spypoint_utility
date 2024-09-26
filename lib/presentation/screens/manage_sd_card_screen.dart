@@ -15,7 +15,7 @@ class ManageSdCardScreen extends StatelessWidget {
         // body: const Center(
         //   child: Text('Welcome to the SpyPoint Utility Manage SD Card Page'),
         // ),
-        body: const MainContent(),
+        body: MainContent(),
       ),
     );
   }
